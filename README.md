@@ -1,4 +1,4 @@
-# Challenges React OfferMarket
+# Challenges React Tab Form
 Build a component from a given Mock-up using React and any lib desired (example, Ant Design).
 HINT: The App was created using create-react-app. Add any lib required.
 
