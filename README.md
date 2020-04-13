@@ -10,13 +10,13 @@ HINT: The App was created using create-react-app. Add any lib required.
 
 ### The Tabs Form
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-tab-form/tab_form_1.png "")
+![alt text](https://github.com/mobrandtech/challenges-react-tab-form/tab_form_1.png?raw=true "")
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-tab-form/tab_form_2.png "")
+![alt text](https://github.com/mobrandtech/challenges-react-tab-form/tab_form_2.png?raw=true "")
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-tab-form/tab_form_3.png "")
+![alt text](https://github.com/mobrandtech/challenges-react-tab-form/tab_form_3.png?raw=true "")
 
-![alt text](https://raw.githubusercontent.com/mobrandtech/challenges-react-tab-form/tab_form_4.png "")
+![alt text](https://github.com/mobrandtech/challenges-react-tab-form/tab_form_4.png?raw=true "")
 
 - It should have:
   - The Layout seen (carousel, form, buttons, inputs).
