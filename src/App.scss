@@ -7,19 +7,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.App {
   font-family: Roboto, sans-serif;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-@media screen and (max-width: 400px) {
-  .App {
-    flex-wrap: wrap;
-    .tabform .forminputs {
-      width: 100vw;
-      height: 100%;
-    }
-  }
 }
