@@ -1,0 +1,22 @@
+.ant-form {
+  display: flex;
+  flex-direction: column;
+  .ant-form-item-label {
+    padding: 0;
+  }
+  label {
+    font-size: 1.3em;
+    font-weight: 400;
+  }
+  input {
+    background-color: #edeffa;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  button {
+    border: 1px solid #1b2d36;
+    background-color: #1b2d36;
+    border-radius: 5px;
+    align-self: flex-end;
+  }
+}

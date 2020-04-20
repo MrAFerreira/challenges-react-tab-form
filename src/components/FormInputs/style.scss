@@ -1,0 +1,21 @@
+.form-container {
+  width: 30em;
+  height: 45em;
+  background-color: #edeffa;
+  display: flex;
+  flex-direction: column;
+  .close-icon {
+    align-self: flex-end;
+    margin: 1em 1em;
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+  h2 {
+    text-align: start;
+    font-weight: 700;
+    margin: 1em 0 0 1em;
+  }
+  .single-form {
+    margin: 0 1.5em;
+  }
+}
